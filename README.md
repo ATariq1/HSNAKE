@@ -1,2 +1,2 @@
 # HSNAKE
-A snake game made with Haskell using pure functional programming
+A snake game made with Haskell using pure functional programming.
